@@ -1,1 +1,2 @@
-# Text COMMÝT "ortakRepo"
+# Text commit "ortakRepo"
+sistemler hakkýnda bilgi sahibi olmak.
