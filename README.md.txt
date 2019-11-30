@@ -1,2 +1,3 @@
 # Text commit "ortakRepo"
-sistemler hakkýnda bilgi sahibi olmak.
+sistemler burasý bilgi sahibi olmak.
+jfsfhhhsdgýhghs
